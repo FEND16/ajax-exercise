@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Chicken Soup",
+    "vegan": "false",
+  },
+  {
+    "name": "Palak Paneer",
+    "vegan": "true",
+  },
+  {
+    "name": "Falafel",
+    "vegan": "true"
+  }
+]

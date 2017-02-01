@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: hsl(0, 40%, 50%);
+  color: white;
+  font: 100%/1.5 "Source Sans Pro", sans-serif;
+  letter-spacing: 0.2em;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.albumList{
+  display: flex;
+  justify-content: space-around;
+  
+}
